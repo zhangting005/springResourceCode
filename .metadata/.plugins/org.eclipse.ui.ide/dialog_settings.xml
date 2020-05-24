@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\doc\resource_code_all\tom_all_resource_code\gupaoedu-singleton"/>
+		<item value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\doc\resource_code_all\tom_all_resource_code\gupaoedu-vip-factory"/>
+		<item value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\doc\resource_code_all\tom_all_resource_code"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="634"/>
+		<item key="DIALOG_Y_ORIGIN" value="196"/>
+		<item key="DIALOG_WIDTH" value="571"/>
+		<item key="DIALOG_HEIGHT" value="517"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\spring-framework-3.2.6.RELEASE"/>
+			<item value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\doc\resource_code_all\tom_all_resource_code\gupaoedu-singleton"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

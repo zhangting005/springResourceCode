@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>E:/zt/self_sudy_book_gupao_doc/gupao_jiagou_study/spring-framework-3.2.6.RELEASE/spring-oxm/build/classes/castor</location>
+		</link>
+		<link>
+			<name>.link2</name>
+			<type>2</type>
+			<location>E:/zt/self_sudy_book_gupao_doc/gupao_jiagou_study/spring-framework-3.2.6.RELEASE/spring-oxm/build/classes/jaxb</location>
+		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>E:/zt/self_sudy_book_gupao_doc/gupao_jiagou_study/spring-framework-3.2.6.RELEASE/spring-oxm/build/classes/xmlbeans</location>
+		</link>
+	</linkedResources>
+</projectDescription>

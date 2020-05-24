@@ -1,0 +1,10 @@
+arguments=
+auto.sync=false
+eclipse.preferences.version=1
+gradle.build.scans=false
+gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D\:\\software\\gradle-1.6-bin\\gradle-1.6))
+gradle.offline.mode=false
+gradle.user.home=D\:\\software\\gradle-1.6-bin
+jvm.arguments=
+show.console.view=true
+show.executions.view=true

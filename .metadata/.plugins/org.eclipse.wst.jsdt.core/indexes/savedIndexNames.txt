@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\doc\resource_code_all\tom_all_resource_code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

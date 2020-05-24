@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\spring-framework-3.2.6.RELEASE"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(E:\zt\self_sudy_book_gupao_doc\gupao_jiagou_study\spring-framework-3.2.6.RELEASE))"/>
+	</section>
+</section>
